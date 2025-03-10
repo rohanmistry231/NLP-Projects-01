@@ -5,8 +5,7 @@ Welcome to the **NLP Projects** repository! This collection showcases various Na
 ## 📚 Projects
 
 1. **Project 01: Auto Correction**  
-   *An AI-powered text auto-correction tool that intelligently detects and corrects spelling errors using NLP techniques.*  
-   📂 [Explore Project 01](./Project%2001%20( Auto%20Correction ))
+   *An AI-powered text auto-correction tool that intelligently detects and corrects spelling errors using NLP techniques.*
 
 ## 🧠 About the Repository
 
